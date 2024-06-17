@@ -1,2 +1,3 @@
 # PRODIGY_WD_01
-Responsive landing page
+## CodeSmashers
+Responsive landing page for a website "CodeSmashers" 

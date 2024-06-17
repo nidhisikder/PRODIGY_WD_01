@@ -1,0 +1,112 @@
+*{
+    background-color: rgb(13, 1, 20);
+    color:rgb(213, 211, 214);
+    margin:auto;
+}
+.navbar{
+    background-color: rgb(86, 41, 128);
+    border-color: rgb(145, 131, 158);
+    position:-webkit-sticky;
+    position:sticky;
+    top: 0;
+}
+.nav{
+    height:auto;
+    display:flex;
+    justify-content:flex-end;
+    flex-wrap:wrap;
+    background-color: rgb(207, 158, 252);
+}
+.nav-item{
+    margin: 5px;
+    padding:5px;
+    border-radius:15px;
+    border-color: rgb(214, 167, 206);
+    border-style:solid;
+
+}
+.app{
+    background-color:rgb(77, 20, 129);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius:0.2px;
+}
+
+.heading{
+}
+.image{
+    text-align:center;
+    height:auto;
+    width:auto;
+    size: 20px;
+    padding:20px;
+
+}
+
+.welcome{
+    font-size:60px;
+    padding:50px;
+    text-align: center;
+}
+.Box{
+    margin:auto;
+    padding:10px;
+}
+.description{
+    padding:10px;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+.Rev{
+    background-color: rgb(57, 23, 88);
+    font-size:30px;
+    text-align: center;
+}
+.reviews{
+    margin:auto;
+    padding:2px;
+    display:flex;
+    flex-wrap: wrap;
+    background-color: rgb(137, 73, 211);
+    padding:20px;
+
+}
+.rev{
+    background-color: antiquewhite;
+    color: rgb(117, 5, 93);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:10px 10px 30px 10px;
+
+}
+.rev1{
+    background-color: rgb(231, 185, 229);
+    color:black;
+    justify-content: center;
+    text-align: center;
+    padding:3px 3px 1px 3px;
+    height:170px;
+    width:170px;
+}
+.Rev2{
+    background-color: rgb(51, 16, 58);
+    padding:3px;
+    text-align: center;
+
+
+}
+.click{
+    padding:2px;
+    border-radius: 2px;
+    background-color: rgb(37, 16, 28);
+    
+}
+.click:hover{
+    color:rgb(218, 55, 55);
+}
+
+.tail{
+    padding:10px;
+}
+.thanks{
+    font-size:45px;
+}
